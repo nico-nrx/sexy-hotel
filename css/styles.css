@@ -1,0 +1,95 @@
+.navbar-nav .nav-item:hover .nav-link {
+    color: #cbaa5c;
+}
+
+.navbar-element {
+  padding: 0 1.5rem;
+}
+
+.search-btn:hover {
+  background-color: #cbaa5c;
+  color: #000;
+  border-color: #212529;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+
+#start {
+  background-color: #EDEDED;
+  height: 43.75rem;
+  text-align: center;
+  padding: 3% 15% 7%;
+  margin-bottom: 3rem;
+}
+
+.businessman {
+  position: relative;
+  height: 43.75rem;
+
+}
+
+.big-heading {
+  font-size: 5rem;
+  line-height: 1.5;
+}
+
+.game-button {
+  height: 10%;
+  font-size: 1.4rem;
+}
+
+.sub-heading {
+  padding: 7% 0;
+}
+
+#gallery {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.game-showcase {
+  padding: 1.5rem;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+#member {
+  background-color: #EDEDED;
+  padding: 3% 15%;
+  text-align: center;
+  margin-bottom: 3rem;
+
+}
+
+.profile-picture {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 1rem;
+}
+
+#testimonials {
+  background-color: #000;
+  text-align: center;
+  color: #cbaa5c;
+  padding: 6rem;
+}
+
+.testimonials-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px 20px 200px;
+}
+
+.testimonials-text {
+  font-size: 3rem;
+  line-height: 2;
+
+}
